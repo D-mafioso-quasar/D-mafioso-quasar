@@ -22,7 +22,7 @@
   />
 </picture>
 
-### MACHINE LEARNING LIBRARY WHICH I USE:
+### MACHINE LEARNING LIBRARY I 🖤:
 
 | Pytorch | Selenium | Numpy | Pandas | Sklearn | Matplotlib | OpenCV |
 |----------|----------|----------|----------|----------|----------|----------|
